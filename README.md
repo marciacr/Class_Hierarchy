@@ -1,2 +1,2 @@
 # Class_Hierarchy
-Hierarchy of animals
+Hierarchy in Java
